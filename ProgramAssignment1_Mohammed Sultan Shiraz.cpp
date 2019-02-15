@@ -1,6 +1,6 @@
 /*
 * This is a program for the first programming assignment
-* It was created by Li Ma
+* It was created by Mohammed Shiraz
 * Created date: January 29, 2018
 */
 
